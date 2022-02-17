@@ -2,10 +2,6 @@
 
 
 
-## Who is this tutorial for?
-* Junior to mid-level developers
-* Anyone interested in building REST APIs with TypeScript
-
 ## Why?
 * REST APIs are the staple of the web development industry
 * Knowing how REST APIs is important for both back and frontend developers
